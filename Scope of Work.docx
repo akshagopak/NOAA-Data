@@ -1,0 +1,14 @@
+Predicts the possibility of precipitations, which involves using various local climatological variables, including temperature, wind speed, humidity, dew point, and pressure.
+The data you will be handling was collected by an NOAA weather station located at the John F. Kennedy International Airport in Queens, New York. 
+
+Objectives:
+
+1. Modify a data frame and store the modified data in a new variable containing the new data frame
+2. Clean the data by converting categorical values to numeric values
+3. Evaluate the model by training and testing the data
+4. Create histograms and boxplots of the training set data
+5. Analyze the training set data visually to look for patterns and trends
+6. Analyze the training set data using linear and polynomial regression
+7. Compare and contrast the different models to determine the best fit using metrics like MSE, RMSE, and R-squared
+8. Improve the generalization of the polynomial models using regularization
+9. Evaluate the weather data analysis project developed by your peers using the provided rubric and grading scheme
